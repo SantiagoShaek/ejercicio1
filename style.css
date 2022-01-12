@@ -1,0 +1,40 @@
+.titulo {
+    color: black;
+}
+
+.list1 {
+    display: flex;
+    justify-content: flex-end;
+    color: rgb(229, 229, 229)
+
+}
+
+.list2 {
+    display: flex;
+    color: black;
+}
+
+li {
+    margin: 5px;
+    list-style:none;
+}
+
+ul {
+    margin: 5px;
+    list-style:none;
+}
+
+.b1{
+    width: 150px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 20px;
+    color: white;
+    background-color: black;
+}
+
+.b2{
+    border-radius: 20px;
+    color: white;
+    background-color: rgb(160, 149, 201);
+}
